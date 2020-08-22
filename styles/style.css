@@ -4,6 +4,7 @@ body{
     justify-content: center;
     height: 100%;
     overflow: hidden;
+    background-color: azure;
 }
 html{
     height: 100%;
